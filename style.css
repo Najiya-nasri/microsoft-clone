@@ -3,6 +3,7 @@
     margin: 0;
     box-sizing: border-box;
    /*font-family: 'source sance pro';*/
+    overflow-x: hidden;
 }
 .body style{
     width: 90%;
